@@ -23,6 +23,8 @@ const quotesArray = [
         text: `"Dont't fear failure. Be afraid of not having the chance. You have the chance!"`,
         img: "images/cars.jpeg",
         title: "Cars"
+//         git config --global user.email "dentonmanders@gmail.com"
+//   git config --global user.name "CodeDenton"
     },
     {
         text: `"I believe the answer to that question, like the answer to most questions, is fuck you."`,
