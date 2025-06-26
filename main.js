@@ -1,35 +1,35 @@
 const quotesArray = [
     {
-        text: `"Just keep running, whatever you do don't look back, there is nothing there for you. Everything you need is in front of you."`,
+        text: `"Don't you stop running and don't you ever look behind you,  there's nothing for you behind you. All that exists is what's ahead"`,
         img: "images/bojackHorseman.jpg",
-        title: "Bojack Horseman"
+        title: "Secretariat (Bojack Horseman, 2014)"
     },
     {
         text: `"The future is scary but you can't just run back to the past because it's familiar. Yes it's tempting but it's a mistake."`,
         img: "images/robinSherbatsky.png",
-        title: "How I met your Mother"
+        title: "Robin Sherbatsky (How I Met Your Mother, 2005)"
     },
     {
         text: `"Whatever you do in this life, it is not legendary unless your friends are there to see it."`,
         img: "images/barneyStinson.jpg",
-        title: "How I met your Mother"
+        title: "Barney Stinson (How I Met Your Mother, 2005)"
     },
     {
         text: `"A tree falls the way it leans. Be careful which way you lean."`,
         img: "images/thelorax.jpg",
-        title: "The Lorax"
+        title: "The Lorax (The Lorax, 2012)"
     },
     {
         text: `"Dont't fear failure. Be afraid of not having the chance. You have the chance!"`,
         img: "images/cars.jpeg",
-        title: "Cars"
+        title: "Sally Carrea (Cars 3, 2017)"
 //         git config --global user.email "dentonmanders@gmail.com"
 //   git config --global user.name "CodeDenton"
     },
     {
         text: `"I believe the answer to that question, like the answer to most questions, is fuck you."`,
         img: "images/lip.jpg",
-        title: "Shameless"
+        title: "Lip Gallagher (Shameless, 2011)"
     },
     {
         text: `"Life is like a box of chocolates. You never know what you’re gonna get."`,
