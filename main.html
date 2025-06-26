@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TV Quote Vault</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container" id="quote-container">
+    <h1>Generate Iconic TV Quotes</h1>
+    <div class="quote-box">
+      <img id="quote-img" class="hidden" src="" alt="Quote image" width="300">
+      <p id="quote" class="quote-text"></p>
+      <p id="quote-title" class="quote-title"></p>
+    </div>
+
+    <button onclick="generateQuote()">Generate!</button>
+    <a id="twitter-share" href="#" target="_blank" class="twitter-button hidden">Share on Twitter</a>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>
